@@ -1,6 +1,6 @@
 # Lab 2: SQLite Database and CRUD Routes
 
-**Name:** THOTA SHASHANK  
+**Name:** Chathwick 
 **Registration Number:** [PLACEHOLDER - I WILL ENTER IT]  
 **Section:** [PLACEHOLDER - I WILL ENTER IT]  
 
