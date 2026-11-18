@@ -1,8 +1,8 @@
 # Lab 2: SQLite Database and CRUD Routes
 
-**Name:** Chathwick 
-**Registration Number:** [PLACEHOLDER - I WILL ENTER IT]  
-**Section:** [PLACEHOLDER - I WILL ENTER IT]  
+**Name:** Rayudu Chathwik Sri Sai
+**Registration Number:** 252U1R1219  
+**Section:** CSE 2E - 211  
 
 **Live Link:**  
 [ADD AFTER DEPLOYMENT]
